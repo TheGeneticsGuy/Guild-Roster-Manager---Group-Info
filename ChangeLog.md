@@ -1,3 +1,7 @@
+**RELEASE Ver 1.43 - October 29th, 2024**
+
+*Compatibility Release for Cata Classic 4.4.1 Update*
+
 **RELEASE Ver 1.42 - October 22nd, 2024**
 
 *11.0.5 Compatibility Release - 20th Anniversary*
