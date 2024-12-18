@@ -1,4 +1,4 @@
-All rights are reserved unless explicitly stated below. The "license holder" is the manager of this project, digital Warcraft player name Arkaan, Arkaan-Zul'jin (US server). Discord: Aaron#2150
+All rights are reserved unless explicitly stated below. The "license holder" is the manager of this project, "Guild Roster Manager Group Info." The manager of this project is also known by the digital Warcraft player named Arkaan, namely Arkaan-Zul'jin (US server). Discord name: Aaron#2150, Aaron Topping is the legal Real Life name as well as TheGeneticsGuy on Github
 
 ## Exceptions:
 

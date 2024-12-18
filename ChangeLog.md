@@ -1,3 +1,7 @@
+**RELEASE Ver 1.44 - December 18th, 2024**
+
+*Compatibility Release for Retail 11.0.7 and Classic Era 1.15.5*
+
 **RELEASE Ver 1.43 - October 29th, 2024**
 
 *Compatibility Release for Cata Classic 4.4.1 Update*
